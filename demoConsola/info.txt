@@ -1,0 +1,10 @@
+pip3 install -r requirements.txt
+
+python3 main.py
+
+
+Si no tienes instalado pip3, puedes instalarlo con el siguiente comando:
+python3 -m pip3 install --upgrade pip
+
+Si python3 no reconoce, usa python.
+Si pip3 no reconoce, usa pip.
